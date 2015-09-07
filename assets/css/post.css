@@ -1,0 +1,8 @@
+.post-thumb {
+	height: auto;
+	width: auto;
+	-webkit-border-radius: 0%; 
+	-moz-border-radius: 0%;
+	-ms-border-radius: 0%;
+	border-radius: 0%; 
+}
